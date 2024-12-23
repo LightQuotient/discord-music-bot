@@ -1,0 +1,13 @@
+# Ignore sensitive environment variables
+.env
+
+# Ignore build artifacts
+main
+*.exe
+
+# Ignore Git and editor-specific files
+.git
+.gitignore
+*.swp
+*.swo
+*.DS_Store
